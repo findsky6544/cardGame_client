@@ -1,0 +1,10 @@
+<config>
+  <volume>
+    <bgm isMute="True" volume="1">
+    </bgm>
+    <effectAudio isMute="True" volume="8">
+    </effectAudio>
+    <chatAudio isMute="false" volume="100">
+    </chatAudio>
+  </volume>
+</config>

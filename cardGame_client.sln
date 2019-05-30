@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cardGame_client.Plugins", "cardGame_client.Plugins.csproj", "{AC1DB75A-E34B-42F1-C847-A6936972CABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cardGame_client", "cardGame_client.csproj", "{ADF170F8-DCEE-D9EF-874F-11E4E5A7BC9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC1DB75A-E34B-42F1-C847-A6936972CABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1DB75A-E34B-42F1-C847-A6936972CABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1DB75A-E34B-42F1-C847-A6936972CABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1DB75A-E34B-42F1-C847-A6936972CABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF170F8-DCEE-D9EF-874F-11E4E5A7BC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF170F8-DCEE-D9EF-874F-11E4E5A7BC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF170F8-DCEE-D9EF-874F-11E4E5A7BC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF170F8-DCEE-D9EF-874F-11E4E5A7BC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
